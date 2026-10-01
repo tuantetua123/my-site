@@ -1,0 +1,4 @@
+.vercel
+node_modules
+tg_msg.txt
+deploy_err.log
